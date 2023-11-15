@@ -4,6 +4,14 @@
 
 *Contributions to improve the completeness of this list are greatly appreciated. Please feel free to open an issue, make a pull request, contribute, and revise (or contact [me](https://thanhtbt.github.io/)) if you find any missed references or errors*.
 
+## Table of Content
+
+- [Neuroimaging Modalities](#Neuroimaging-Modalities)
+- [Machine Learning Methods](#ML-Methods)
+- [Deep Learning Methods](#DL-Method)
+- [Datasets](#data)
+- [Toolbox and Software](#software)
+- [Survey and Overview Papers](#surveys)
 
 ## [Neuroimaging Modalities](#content)
 
@@ -15,7 +23,7 @@
 
 ## [Toolbox and Software](#content)
 
-## [Notable Survey and Overview Papers](#content)
+## [Survey and Overview Papers](#content)
 
 
 * *"[Deep learning based diagnosis and prognosis of Alzheimer’s disease: A comprehensive review](https://ieeexplore.ieee.org/document/10064117)"*, in **IEEE Transactions on Cognitive and Developmental Systems**, 2023
