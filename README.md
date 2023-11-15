@@ -1,4 +1,4 @@
-## Machine Learning, Deep Learning Methods for AD Detection
+## Machine Learning and Deep Learning Methods for AD Detection
 
 [Ongoing] A list of up-to-date research papers on computer-aided methods for Alzheimer's disease detection
 
