@@ -16,3 +16,10 @@
 ## Toolbox and Software
 
 ## Survey and Overview Papers
+
+* *"[A Review of Deep Transfer Learning Approaches for Class‑Wise Prediction of Alzheimer’s Disease Using MRI Images](https://link.springer.com/article/10.1007/s11831-022-09870-0)"*, in **Archives of Computational Methods in Engineering**, 2023
+  
+* *"[Functional magnetic resonance imaging, deep learning, and Alzheimer’s disease: A systematic review](https://onlinelibrary.wiley.com/doi/abs/10.1111/jon.13063)"*, in **Journal of NeuroImaging**, 2022, [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jon.13063)
+
+
+
