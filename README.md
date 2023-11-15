@@ -24,9 +24,7 @@
   
 * *"[Functional magnetic resonance imaging, deep learning, and Alzheimer’s disease: A systematic review](https://onlinelibrary.wiley.com/doi/abs/10.1111/jon.13063)"*, in **Journal of NeuroImaging**, 2022
 
-* *"[Early detection of Alzheimer’s disease based on the state-of-the-art deep learning approach: A comprehensive survey]
-(https://link.springer.com/article/10.1007/s11042-022-11925-0)"*, in **Multimedia Tools and Applications**, 2022
-
+* *"[Early detection of Alzheimer’s disease based on the state-of-the-art deep learning approach: A comprehensive survey](https://link.springer.com/article/10.1007/s11042-022-11925-0)"*, in **Multimedia Tools and Applications**, 2022
 
 * *"[Early diagnosis of Alzheimer’s disease based on deep learning: A systematic review](https://www.sciencedirect.com/science/article/pii/S0010482522004267)"*, in **Computers in Biology and Medicine**, 2022
 
