@@ -28,7 +28,7 @@
 
 * *"[Early diagnosis of Alzheimer’s disease based on deep learning: A systematic review](https://www.sciencedirect.com/science/article/pii/S0010482522004267)"*, in **Computers in Biology and Medicine**, 2022
 
-* *"[Deep learning for Alzheimer's disease diagnosis: A survey](https://www.sciencedirect.com/science/article/pii/S0933365722000975)"*, in **Journal of Artificial Intelligence In Medicine**, 2022
+* *"[Deep learning for Alzheimer's disease diagnosis: A survey](https://www.sciencedirect.com/science/article/pii/S0933365722000975)"*, in **Artificial Intelligence In Medicine**, 2022
 
 
 
